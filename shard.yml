@@ -1,0 +1,9 @@
+name: redux
+version: 0.1.0
+
+authors:
+  - churakov <fl.churakov@gmail.com>
+
+crystal: 0.21.1
+
+license: MIT
